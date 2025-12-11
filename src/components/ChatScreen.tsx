@@ -483,7 +483,7 @@ export function ChatScreen({
         {/* Medical Disclaimer */}
         <div className="px-4 pb-3 text-center">
           <p className="text-xs text-muted-foreground">
-            {t.medicalDisclaimer}
+            <strong>{t.medicalDisclaimer}</strong> {t.medicalDisclaimerDesc}
           </p>
         </div>
       </div>
