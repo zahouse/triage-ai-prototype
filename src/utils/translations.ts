@@ -602,7 +602,6 @@ export const translations: Record<Language, Translations> = {
     // Reasoning Panel
     whyThisAnswer: "Why this answer?",
     aiReasoning: "AI Reasoning",
-    simpleEnglish: "Simple English",
     reasoningFooter:
       "This explanation shows how I arrived at my answer. If something doesn't make sense, you can edit my response or ask me to explain differently.",
   },
@@ -889,10 +888,6 @@ export const translations: Record<Language, Translations> = {
     toastTranslating: "Preparando opciones de traducción...",
     toastTranslatingSuccess: "Respuesta localizada con éxito",
 
-    // Medical Disclaimer
-    medicalDisclaimer:
-      "TRAI es un asistente de triaje, no un reemplazo para el consejo médico profesional. Las conversaciones pueden ser revisadas por clínicos si solicita supervisión humana.",
-
     // Font Size Controls
     fontSizeLabel: "Tamaño de Fuente",
     decreaseFontSize: "Reducir Tamaño de Fuente",
@@ -950,7 +945,6 @@ export const translations: Record<Language, Translations> = {
     // Reasoning Panel
     whyThisAnswer: "¿Por qué esta respuesta?",
     aiReasoning: "Razonamiento de IA",
-    simpleEnglish: "Español Sencillo",
     reasoningFooter:
       "Esta explicación muestra cómo llegué a mi respuesta. Si algo no tiene sentido, puede editar mi respuesta o pedirme que lo explique de manera diferente.",
   },
@@ -1242,10 +1236,6 @@ export const translations: Record<Language, Translations> = {
       "Préparation des options de traduction...",
     toastTranslatingSuccess: "Réponse localisée avec succès",
 
-    // Medical Disclaimer
-    medicalDisclaimer:
-      "TRAI est un assistant de triage, pas un remplacement pour des conseils médicaux professionnels. Les conversations peuvent être examinées par des cliniciens si vous demandez une supervision humaine.",
-
     // Font Size Controls
     fontSizeLabel: "Taille de Police",
     decreaseFontSize: "Réduire la Taille de Police",
@@ -1304,7 +1294,6 @@ export const translations: Record<Language, Translations> = {
     // Reasoning Panel
     whyThisAnswer: "Pourquoi cette réponse?",
     aiReasoning: "Raisonnement de l'IA",
-    simpleEnglish: "Français Simple",
     reasoningFooter:
       "Cette explication montre comment je suis arrivé à ma réponse. Si quelque chose n'a pas de sens, vous pouvez modifier ma réponse ou me demander d'expliquer différemment.",
   },
@@ -1591,10 +1580,6 @@ export const translations: Record<Language, Translations> = {
       "Übersetzungsoptionen werden vorbereitet...",
     toastTranslatingSuccess: "Antwort erfolgreich lokalisiert",
 
-    // Medical Disclaimer
-    medicalDisclaimer:
-      "TRAI ist ein Triage-Assistent, kein Ersatz für professionelle medizinische Beratung. Gespräche können von Klinikern überprüft werden, wenn Sie menschliche Aufsicht anfordern.",
-
     // Font Size Controls
     fontSizeLabel: "Schriftgröße",
     decreaseFontSize: "Schriftgröße verringern",
@@ -1654,7 +1639,6 @@ export const translations: Record<Language, Translations> = {
     // Reasoning Panel
     whyThisAnswer: "Warum diese Antwort?",
     aiReasoning: "KI-Begründung",
-    simpleEnglish: "Einfaches Deutsch",
     reasoningFooter:
       "Diese Erklärung zeigt, wie ich zu meiner Antwort gekommen bin. Wenn etwas keinen Sinn ergibt, können Sie meine Antwort bearbeiten oder mich bitten, es anders zu erklären.",
   },
